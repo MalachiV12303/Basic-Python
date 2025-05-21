@@ -1,0 +1,2 @@
+# Python Assignments from College 2023
+This course is an introduction to computer programming. Students will solve programming problems by coding programs that input and process data and generate output. Solutions to programming problems will require coding decision structures, repetition structures, and custom functions. Some programs will require creating and reading text files and working with lists. Additional topics include an overview of how computers work, the Internet, binary numbers, and hexadecimal numbers.
